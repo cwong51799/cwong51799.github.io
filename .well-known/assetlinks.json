@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.cwong51799.mobiletrivia",
+    "package_name": "com.cwong51799.triviaworld",
     "sha256_cert_fingerprints":
     ["25:C9:9C:01:FF:4D:32:27:7D:CC:1B:EA:3B:D5:40:30:93:18:56:22:84:A3:25:5E:A2:29:19:52:90:5C:69:7E"]
   }
